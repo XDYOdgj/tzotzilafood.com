@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tzotzilafood.com/sitemap.xml
